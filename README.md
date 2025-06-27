@@ -11,17 +11,11 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-![Python]
-
-![Statistics]
+![Python](https://colab.research.google.com/drive/1hK2864tuVLYv2JgXL9JXcVqLtjuf0gwf?usp=drive_link)
 
 ## Featured Project 💻
 
-### [Customers-Analysis-Dashboard](https://drive.google.com/drive/folders/1IA2Sy8bDYo0KSkPnpvc8taddDCislz2V?usp=drive_link)
-
-![Project Screenshot](https://i.supaimg.com/0f4540f0-1d78-4833-94c1-5f38aa04f72c.jpg)
-
-[Customers-Analysis-Dashboard] This project showcases a Tableau dashboard designed to analyze customer sales performance over multiple years. It tracks sales trends, profit margins, customer distribution, and highlights key buying patterns by customer and region. This project demonstrates my ability to use Tableau effectively.
+[Salaries-Analytics-Python] This project showcases a Tableau dashboard designed to analyze customer sales performance over multiple years. It tracks sales trends, profit margins, customer distribution, and highlights key buying patterns by customer and region. This project demonstrates my ability to use Tableau effectively.
 
 
 ## Get in Touch 📬
