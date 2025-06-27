@@ -15,7 +15,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## Featured Project 💻
 
-[Salaries-Analytics-Python] This project showcases a Tableau dashboard designed to analyze customer sales performance over multiple years. It tracks sales trends, profit margins, customer distribution, and highlights key buying patterns by customer and region. This project demonstrates my ability to use Tableau effectively.
+[Salaries-Analytics-Python] This project aims to study employees payroll data in the city of San Francisco so that it can understand the contributors, the factors affecting money, and identify any abnormal choices it may see or opportunities for improvement. This project demonstrates my ability to use Python effectively.
 
 
 ## Get in Touch 📬
