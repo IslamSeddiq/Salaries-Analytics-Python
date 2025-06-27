@@ -13,7 +13,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ### [Python](https://colab.research.google.com/drive/1hK2864tuVLYv2JgXL9JXcVqLtjuf0gwf?usp=drive_link)
 
-## Featured Project 💻
+## About Project 💻
 
 [Salaries-Analytics-Python] This project aims to study employees payroll data in the city of San Francisco so that it can understand the contributors, the factors affecting money, and identify any abnormal choices it may see or opportunities for improvement. This project demonstrates my ability to use Python effectively.
 
