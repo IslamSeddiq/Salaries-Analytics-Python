@@ -11,7 +11,7 @@ I'm a passionate data analyst with experience in SQL, Python, Excel, Power BI or
 
 ## My Skills 🧠
 
-![Python](https://colab.research.google.com/drive/1hK2864tuVLYv2JgXL9JXcVqLtjuf0gwf?usp=drive_link)
+### [Python](https://colab.research.google.com/drive/1hK2864tuVLYv2JgXL9JXcVqLtjuf0gwf?usp=drive_link)
 
 ## Featured Project 💻
 
